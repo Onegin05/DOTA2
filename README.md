@@ -8,8 +8,8 @@ kā arī tos saģērbt!**
 
   **| Mana Darba Plans |**
 - [ ] Pievienot vispārīgu aprakstu par spēli
-- [ ] Pievienot varoņu Legion Commander
+- [ ] Pievienot varoņu Slark
 - [ ] Pievienot varoņu Anti-Mage
-- [ ] Pievienot varoņu  Shadow Fiend
+- [ ] Pievienot varoņu ....
 - [ ] Pievienojiet visiem varoņiem to īpašības (bojājums, kustības ātrums)
 - [ ] Pievienot katram  varoņim pāris izskata kategoriju un pāris lietu katrā kategorijā.
