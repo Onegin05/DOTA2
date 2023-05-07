@@ -8,8 +8,8 @@ kā arī tos saģērbt!**
 
   **| Mana Darba Plans |**
 - [ x ] Pievienot vispārīgu aprakstu par spēli
-- [ x ] Pievienot varoņu Slark
-- [ ] Pievienot varoņu Anti-Mage
-- [ ] Pievienot varoņu ....
-- [ ] Pievienojiet visiem varoņiem to īpašības (bojājums, kustības ātrums)
-- [ ] Pievienot katram  varoņim pāris izskata kategoriju un pāris lietu katrā kategorijā.
+- [ x ] Pievienot varoņu Сrystal Maiden
+- [ x ] Pievienot varoņu Anti-Mage
+- [ x ] Pievienot varoņu ....
+- [ x ] Pievienojiet visiem varoņiem to īpašības (history)
+- [ x ] Pievienot katram  varoņim pāris izskata kategoriju un pāris lietu katrā kategorijā.
