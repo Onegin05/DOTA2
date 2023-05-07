@@ -9,6 +9,14 @@ public class toggle : MonoBehaviour {
 	public GameObject guccibikses;
 	public GameObject adidast;
 	public GameObject guccit;
+	void Start(){
+		adidashat.SetActive (false);
+		guccihat.SetActive (false);
+		adidasbikses.SetActive (false);
+		guccibikses.SetActive (false);
+		adidast.SetActive (false);
+		guccit.SetActive (false);
+	 }
 	public void showadidashat(bool x){
 		adidashat.SetActive (x);
 
